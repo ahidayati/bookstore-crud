@@ -29,7 +29,7 @@
         <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
             <div class="navbar-nav">
                 <!--                <a class="nav-link active" aria-current="page" href="index.php">HOME</a>-->
-                <a class="nav-link" href="item-list.php"><i class="fas fa-book"></i> ITEM</a>
+                <a class="nav-link" href="printedItem-list.php"><i class="fas fa-book"></i> PRINTED-ITEM</a>
                 <a class="nav-link" href="genre-list.php"><i class="fas fa-clipboard"></i> GENRE</a>
                 <a class="nav-link" href="topic-list.php"><i class="fas fa-scroll"></i> TOPIC</a>
                 <a class="nav-link" href="type-list.php"><i class="fas fa-newspaper"></i> TYPE</a>
