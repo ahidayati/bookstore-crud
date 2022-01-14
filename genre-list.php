@@ -10,7 +10,7 @@ $displayGenre = $newGenre->displayAllGenre();
 ?>
 
 <div class="container">
-    <div class="col-6">
+    <div class="col-6 mx-auto">
         <table class="table table-striped">
             <thead>
                 <tr>
@@ -25,8 +25,8 @@ $displayGenre = $newGenre->displayAllGenre();
             ?>
                 <tr>
                     <td><?php echo $i++ ?></td>
-                    <td><?php echo $genreEach["name"]; ?></td>
-                    <td>edit view delete</td>
+                    <td><?php echo $genreEach["name_genre"]; ?></td>
+                    <td>edit delete</td>
                 </tr>
             <?php
             }
